@@ -1,0 +1,116 @@
+Design a modern, premium mobile **Leaderboard / Ranking screen UI** for a learning application. The design must feel **clean, futuristic, competitive, and motivating**.
+
+GENERAL STYLE:
+
+* Dark mode interface
+* Elegant gradient background (deep navy → dark blue → subtle purple glow)
+* Soft lighting effects and glassmorphism cards
+* Smooth rounded corners (16–24px)
+* Subtle shadows and glowing highlights
+* Premium gaming-style leaderboard aesthetic similar to Duolingo, Strava, and modern esports ranking interfaces
+* High contrast with vibrant accent colors
+
+HEADER SECTION:
+
+* Title at the top: "التصنيف" with a small trophy icon
+* Minimalist header layout
+* Under the title display **two stat cards**:
+
+  * Number of students (طالب مسجل)
+  * Number of rewards/points (جوائزك)
+* Cards should have:
+
+  * small icons
+  * soft glow
+  * gradient backgrounds
+  * glass effect
+
+FILTER / TABS:
+Create a toggle selector for leaderboard scope:
+
+* "وطني"
+* "ولائي"
+  Use a **modern segmented control**
+* glowing selected state
+* smooth sliding animation
+* subtle neon accent when active
+
+LEADERBOARD DESIGN:
+The leaderboard must highlight the **Top 3 users with a premium podium layout**.
+
+Top 3 design:
+
+* Center position (Rank #1) larger than others
+* Circular avatar with golden glowing ring
+* Animated trophy icon above the winner
+* Subtle crown effect
+* Display:
+
+  * Username
+  * Points
+  * Rank badge
+
+Second and third positions slightly smaller with:
+
+* silver glow
+* bronze glow
+
+PODIUM STYLE:
+Create a **3D podium style layout**:
+
+* Rank 1 (center) tallest
+* Rank 2 left
+* Rank 3 right
+* Smooth gradient lighting
+* subtle reflections
+
+OTHER USERS LIST:
+Below the podium add a **scrollable ranking list**:
+Each item contains:
+
+* position number
+* avatar
+* username
+* points
+* progress indicator
+* subtle hover glow
+
+LIST ITEM STYLE:
+
+* Glassmorphism card
+* soft blur background
+* thin neon divider lines
+* smooth rounded edges
+
+INTERACTIONS:
+
+* micro animations
+* glowing hover states
+* smooth transitions when rankings update
+* subtle particle sparkle around top users
+
+COLOR PALETTE:
+Primary background: #0A1128
+Secondary gradient: #0F1C3F → #1C2E66
+Accent colors:
+
+* Gold (#FFD700) for rank 1
+* Silver (#C0C0C0) for rank 2
+* Bronze (#CD7F32) for rank 3
+* Neon cyan for UI highlights
+
+TYPOGRAPHY:
+
+* Modern Arabic UI font
+* Bold for ranking numbers
+* Medium for usernames
+* Small labels for stats
+
+EXTRA DETAILS:
+
+* subtle floating trophy icons in background
+* soft glow around active elements
+* animated score increase effect
+* dynamic ranking transitions
+
+The final UI should look **premium, competitive, and gamified**, making students excited to improve their ranking.
